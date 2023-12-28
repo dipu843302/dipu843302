@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dipu Kumar</h1>
 <h3 align="center">A passionate full stack android developer </h3>
 
-I learnt a lot about computers when I completed by Diploma in Computer Applications. By the 9th standard, I had learned the fundamentals of computers. Naturally, I decided to do my BCA after the 12th standard. During the course, I gained a sound understanding about computer fundamentals, Data Structure Algorithm , and programming languages like C, C++, Visual Basic, and Java.
-I realised that I needed more hands-on experience if I wanted to build apps and products that help overcome everyday hurdles. That's how I decided to join Masai School, where I learned how to build complex apps. I am also getting to learn how to work with teams of developers towards a shared outcome.
+
 
 - 🔭 I have experienced in android development.
 - 👯 I’m looking to collaborate on Android Project.
