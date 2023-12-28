@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I have experienced in android development.
+- 🔭 I have 1.6 years experienced in android development.
 - 👯 I’m looking to collaborate on Android Project.
 - 👨‍💻 All of my projects are available at [https://dipukumar.dorik.io/](https://dipukumar.dorik.io/)
 - 📫 How to reach me **dipu843302@gmail.com**
